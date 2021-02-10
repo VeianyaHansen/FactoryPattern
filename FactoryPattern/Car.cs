@@ -8,7 +8,6 @@ namespace FactoryPattern
     {
         public Car()
         {
-
         }
 
         public void Drive()
